@@ -35,7 +35,7 @@ Tools, scripts, addons, and other resources to help you to build your mods and a
   - New developer/tester friendly functions not available as console commands
   - A lot more extensive than PowerTools (with the tradeoff of being less streamlined)
 - [LumberJack](https://www.farming-simulator.com/mod.php?mod_id=225190&title=fs2022): The unspoken hero of super strength mode
-  - Even though both PowerTools and EDC lets you to activate super strength, is less obtrusive and waiting in the backround always ready with just a keystroke. Also, the fine tuned wood cutting makes testing easier.
+  - Even though both PowerTools and EDC lets you to activate super strength, LumberJack is less obtrusive and waiting in the backround always ready with just a keystroke. Also, the fine tuned wood cutting makes testing easier.
 
 ## Misc. tools and resources
 - [Color converter](https://docs.google.com/spreadsheets/d/1E2odstb7WOZlWozdA1wPSVGls0srfNZDrYDQ5TUkfeo/edit?gid=0#gid=0) - Convert between Giants (sRGB), HEX and RGB color codes
