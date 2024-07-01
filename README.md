@@ -5,6 +5,8 @@
 
 ## Graphical Assets
 
+<br>
+
 # 🔨 General Modding Tools
 Tools, scripts, addons, and other resources to help you to build your mods and assets for your mods:
 
@@ -17,7 +19,7 @@ Tools, scripts, addons, and other resources to help you to build your mods and a
 ## Graphics tools
 - TBD
 
-## In-game tools & mods (e.g. PowerTools and EasyDevControls)
+## In-game tools & mods
 - [PowerTools](https://www.farming-simulator.com/mod.php?mod_id=224578&title=fs2022): A quick and easy to use tool to assist with development and testing of mods, the main benefit is the easy access to all commands via a single hotkey and no need for mouse navigation 
   - `r` console command performs a soft/quick restart of the current save game
   - `rr` console command performs a hard/full restart of the current save game
